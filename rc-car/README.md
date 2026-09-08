@@ -1,6 +1,6 @@
 # 1/8 Scale RC Race Car
 
-Chassis, drivetrain, and suspension for a Technoxian competition RC electric car. Designed for a friend's competition team — I handled all mechanical design; the team handled electronics, driving, and race operations.
+Chassis, drivetrain, and suspension for a Technoxian competition RC electric car. Designed for a friend's competition team - I handled all mechanical design; the team handled electronics, driving, and race operations.
 
 ## Specs
 
