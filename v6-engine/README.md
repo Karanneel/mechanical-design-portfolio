@@ -1,6 +1,6 @@
-# Toyota 2GR-FE V6 Engine — Assembly Exercise
+# Toyota 2GR-FE V6 Engine - Assembly Exercise
 
-3.5 L 60° V6, DOHC, dual VVT-i. Modeling exercise from published production dimensions. Simplified assembly focused on rotating-assembly kinematics and overall architecture — not a production digital twin.
+3.5 L 60° V6, DOHC, dual VVT-i. Modeling exercise from published production dimensions. Simplified assembly focused on rotating-assembly kinematics and overall architecture - not a production digital twin.
 
 ## Reference specifications (Toyota 2GR-FE)
 
