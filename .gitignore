@@ -9,10 +9,14 @@ desktop.ini
 *.swp
 *~
 
+# Environment
+.env
+*.env.local
+
 # Fusion 360 lock files
 *.f3d.lock
 
-# Python (build scripts kept private, not committed here — this is a defensive default)
+# Python
 __pycache__/
 *.pyc
 .venv/
